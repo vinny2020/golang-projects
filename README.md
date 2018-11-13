@@ -1,5 +1,7 @@
 # golang-projects
 
 
-From Hello world to a web application to a useful library.
-Just a place for a veteran Java programmer to get up to speed in Go.
+My code for the examples and exercises from the Go Programming Language book.
+This is a place for a veteran Java programmer to get up to speed in Go.
+
+
